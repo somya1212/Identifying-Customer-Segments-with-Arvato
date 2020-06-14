@@ -5,7 +5,7 @@ In this project, Bertelsmann partners AZ Direct and Arvato Financial Solutions h
 ## Project Overview:
 The main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. I used unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company. Prior to applying the machine learning methods, I also assessed and cleaned the data in order to convert the data into a usable form.
 
-## Installaions:
+## Installations:
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
 
 - NumPy
